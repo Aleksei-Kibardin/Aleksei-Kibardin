@@ -52,12 +52,15 @@ GMAIL: kibardin20000@gmail.com <br>
 </table>
 
 ### 👨‍💻 my works:
-food: https://aleksei-kibardin.github.io/food.github.io/ <br>
+
+<h1>food: https://aleksei-kibardin.github.io/food.github.io/ </h1> 
+
 ![image](https://user-images.githubusercontent.com/96148536/217031744-5ad6f3c4-2039-497e-a879-d132718affed.png)
 
-Cryptonomicon: https://cryptonomicon-5491f4.netlify.app/ <br>
+<h1>Cryptonomicon: https://cryptonomicon-5491f4.netlify.app/ </h1>
+
 ![image](https://user-images.githubusercontent.com/96148536/217032135-75704c8d-8544-4feb-87be-90caed3f413f.png)
 
-Nootris: https://aleksei-kibardin.github.io/Nootris.github.io/ <br>
-![image](https://user-images.githubusercontent.com/96148536/217032836-b030e079-6739-4d20-9980-cca2cce41889.png)
+<h1>Nootris: https://aleksei-kibardin.github.io/Nootris.github.io/ </h1>
 
+![image](https://user-images.githubusercontent.com/96148536/217032836-b030e079-6739-4d20-9980-cca2cce41889.png)
