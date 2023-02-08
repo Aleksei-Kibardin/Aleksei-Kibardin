@@ -10,7 +10,7 @@ Hello! I am a Frontend developer, at the moment I am actively looking for a job,
 
 ### ☎️ contacts:
 GMAIL: kibardin20000@gmail.com <br>
-Телефон: +79675984929
+my number: +79675984929
 
 
 ### 🤝 Social media:
