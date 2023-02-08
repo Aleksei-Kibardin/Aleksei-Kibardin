@@ -1,5 +1,5 @@
 
-###  about me:
+### 👨‍ about me:
 
 Hello! I am a Frontend developer, at the moment I am actively looking for a job, I can say about myself that:
 1) Willing to learn and grow in programming
@@ -8,7 +8,7 @@ Hello! I am a Frontend developer, at the moment I am actively looking for a job,
 4) I have an analytical mind
 5) high level of responsibility
 
-### contacts:
+### ☎️ contacts:
 GMAIL: kibardin20000@gmail.com <br>
 Телефон: +79675984929
 
@@ -24,7 +24,7 @@ GMAIL: kibardin20000@gmail.com <br>
     </a>
   </div>
 
-### 👨‍💻 My stack and tools:
+### 💻 My stack and tools:
 ![image](https://user-images.githubusercontent.com/96148536/217519723-24b093b5-0cf1-45b8-9f8a-d960759391ee.png)
 ![image](https://user-images.githubusercontent.com/96148536/217520995-5fb8df1d-fd3a-4ae1-97fc-f99836dfd3ac.png)
 ![image](https://user-images.githubusercontent.com/96148536/217519762-40b2d26b-48bc-42c0-9e8d-ee6ed573167d.png)
@@ -51,7 +51,7 @@ GMAIL: kibardin20000@gmail.com <br>
   </tr>
 </table>
 
-### 💻 my works:
+### 👨‍💻 my works:
 food: https://aleksei-kibardin.github.io/food.github.io/ <br>
 ![image](https://user-images.githubusercontent.com/96148536/217031744-5ad6f3c4-2039-497e-a879-d132718affed.png)
 
