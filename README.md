@@ -1,12 +1,7 @@
 
 ### 👨‍ about me:
 
-Hello! I am a Frontend developer, at the moment I am actively looking for a job, I can say about myself that:
-1) Willing to learn and grow in programming
-2) I have excellent communication skills
-3) Healthy career and financial ambitions
-4) I have an analytical mind
-5) high level of responsibility
+Hello! I am a Frontend developer, at the moment I am actively looking for a job
 
 ### ☎️ contacts:
 GMAIL: kibardin20000@gmail.com <br>
