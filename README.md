@@ -1,7 +1,7 @@
 
 ### 👨‍ about me:
 
-Hello! I am a Frontend developer, at the moment I am actively looking for a job
+Hello! I am a Frontend developer, at the moment I am actively looking for a job, I will be glad to talk
 
 ### ☎️ contacts:
 GMAIL: kibardin20000@gmail.com <br>
