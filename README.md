@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?height=200&type=waving&desc=Frontend%20Developer&text=Aleksei-Kibardin%20&animation=scaleIn&fontSize=50&fontAlign=73&fontAlignY=40&descSize=20&descAlignY=15&descAlign=59&color=gradient1&fontColor=fff)
 ### 👨‍ about me:
 
-Hello! I am a Frontend developer, at the moment I am actively looking for a job, I will be glad to talk
+Hello! I am Aleksei and i Frontend developer
 
 ### ☎️ contacts:
 GMAIL: kibardin20000@gmail.com <br>
