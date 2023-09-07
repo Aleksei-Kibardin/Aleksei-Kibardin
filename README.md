@@ -56,6 +56,3 @@ my number: +79675984929
 
 ![image](https://user-images.githubusercontent.com/96148536/217032135-75704c8d-8544-4feb-87be-90caed3f413f.png)
 
-<h1>Nootris: https://aleksei-kibardin.github.io/Nootris.github.io/ </h1>
-
-![image](https://user-images.githubusercontent.com/96148536/217032836-b030e079-6739-4d20-9980-cca2cce41889.png)
