@@ -56,6 +56,10 @@ my number: +79675984929
 
 ![image](https://user-images.githubusercontent.com/96148536/217032135-75704c8d-8544-4feb-87be-90caed3f413f.png)
 
+<h1>1zd: https://celadon-praline-92bb95.netlify.app/ </h1>
+![image](https://github.com/Aleksei-Kibardin/Aleksei-Kibardin/assets/96148536/8caacdfc-1984-4759-b95a-924c715d3e38)
+
+
 <h1>Food: https://aleksei-kibardin.github.io/food.github.io/ </h1> 
 
 ![image](https://user-images.githubusercontent.com/96148536/217031744-5ad6f3c4-2039-497e-a879-d132718affed.png)
