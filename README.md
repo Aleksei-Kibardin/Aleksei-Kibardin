@@ -62,7 +62,8 @@ my number: +79675984929
 
 <h1>stamping-rf: https://stamping-rf.netlify.app/ </h1>
 
-![image](https://github.com/Aleksei-Kibardin/Aleksei-Kibardin/assets/96148536/ad295442-8828-494f-b4bf-a20d7f594f50)
+![image](https://github.com/Aleksei-Kibardin/Aleksei-Kibardin/assets/96148536/3ae7a5e2-fc99-41f5-8d08-3c9df685406c)
+
 
 
 <h1>Food: https://aleksei-kibardin.github.io/food.github.io/ </h1> 
