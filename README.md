@@ -8,9 +8,9 @@ GMAIL: kibardin20000@gmail.com <br>
 my number: +79675984929
 
 ### 1. Introduction<br/>
-   1.1. Project Overview<br/>
-   1.2. Key Features<br/>
-   1.3. Technology Stack<br/>
+####   1.1. Project Overview<br/>
+####   1.2. Key Features<br/>
+ ####  1.3. Technology Stack<br/>
 
 ### 2. Installation<br/>
    2.1. Prerequisites<br/>
