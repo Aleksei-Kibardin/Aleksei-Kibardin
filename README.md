@@ -8,28 +8,28 @@ GMAIL: kibardin20000@gmail.com <br>
 my number: +79675984929
 
 ### 1. Introduction<br/>
-   1.1. Project Overview<br/>
-   1.2. Key Features<br/>
-  1.3. Technology Stack<br/>
+      1.1. Project Overview<br/>
+      1.2. Key Features<br/>
+     1.3. Technology Stack<br/>
 
 ### 2. Installation<br/>
-   2.1. Prerequisites<br/>
-   2.2. Clone the Repository<br/>
-   2.3. Install Dependencies<br/>
-   2.4. Running the Project<br/>
-
+      2.1. Prerequisites<br/>
+      2.2. Clone the Repository<br/>
+      2.3. Install Dependencies<br/>
+      2.4. Running the Project<br/>
+   
 ### 3. Usage<br/>
-   3.1. Basic Usage<br/>
-   3.2. Configuration<br/>
-   3.3. API Endpoints<br/>
+      3.1. Basic Usage<br/>
+      3.2. Configuration<br/>
+      3.3. API Endpoints<br/>
 
 ### 4. Contributing<br/>
-   4.1. How to Contribute<br/>
-   4.2. Code Style Guidelines<br/>
-   4.3. Branching Strategy<br/>
+      4.1. How to Contribute<br/>
+      4.2. Code Style Guidelines<br/>
+      4.3. Branching Strategy<br/>
 
 ### 5. License<br/>
-   5.1. License Information<br/>
+      5.1. License Information<br/>
 
 
 ### 🤝 Social media:
