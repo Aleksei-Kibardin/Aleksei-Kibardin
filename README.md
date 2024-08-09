@@ -7,6 +7,30 @@ Hello! I am Frontend developer, and i currently accepting incoming job offers
 GMAIL: kibardin20000@gmail.com <br>
 my number: +79675984929
 
+1. Introduction
+   1.1. Project Overview
+   1.2. Key Features
+   1.3. Technology Stack
+
+2. Installation
+   2.1. Prerequisites
+   2.2. Clone the Repository
+   2.3. Install Dependencies
+   2.4. Running the Project
+
+3. Usage
+   3.1. Basic Usage
+   3.2. Configuration
+   3.3. API Endpoints
+
+4. Contributing
+   4.1. How to Contribute
+   4.2. Code Style Guidelines
+   4.3. Branching Strategy
+
+5. License
+   5.1. License Information
+
 
 ### 🤝 Social media:
 
