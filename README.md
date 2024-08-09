@@ -7,12 +7,6 @@ Hello! I am Frontend developer, and i currently accepting incoming job offers
 GMAIL: kibardin20000@gmail.com <br>
 my number: +79675984929
 
-### 1. Introduction<br/>
-   1.1. Project Overview
-   1.2. Key Features
-   1.3. Technology Stack
-
-
 
 ### 🤝 Social media:
 
