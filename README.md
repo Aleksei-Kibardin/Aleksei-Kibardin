@@ -45,25 +45,3 @@ GMAIL: kibardin20000@gmail.com <br>
   </tr>
 </table>
 
-### 👨‍💻 my works:
-
-<h1>Sordzhen Tool Plant: https://1zd.netlify.app/#/ </h1>
-
-![image](https://github.com/Aleksei-Kibardin/Aleksei-Kibardin/assets/96148536/622b37f0-2303-4de7-b493-eddd6acaf3a5)
-
-<h1>Cryptonomicon: https://cryptonomicon-5491f4.netlify.app/ </h1>
-
-![image](https://user-images.githubusercontent.com/96148536/217032135-75704c8d-8544-4feb-87be-90caed3f413f.png)
-
-<h1>1zd: https://celadon-praline-92bb95.netlify.app/ </h1>
-
-![image](https://github.com/Aleksei-Kibardin/Aleksei-Kibardin/assets/96148536/fddd6659-a739-4533-8839-e3eb7762075a)
-
-<h1>stamping-rf: https://stamping-rf.netlify.app/ </h1>
-
-![image](https://github.com/Aleksei-Kibardin/Aleksei-Kibardin/assets/96148536/873141d3-481d-466c-978e-65aed522855f)
-
-<h1>Food: https://aleksei-kibardin.github.io/food.github.io/ </h1> 
-
-![image](https://user-images.githubusercontent.com/96148536/217031744-5ad6f3c4-2039-497e-a879-d132718affed.png)
-
